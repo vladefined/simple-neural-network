@@ -1,6 +1,6 @@
 # simple-neural-network
 
-A small neural network library written from scratch in Java in 2020, as a learning project.
+A small neural network library written from scratch in Java in 2020, when I was 17 and in my last year of school.
 No ML libraries, only arrays and loops.
 
 Implemented by hand: feed-forward layers, backpropagation, SGD with momentum, dropout,
